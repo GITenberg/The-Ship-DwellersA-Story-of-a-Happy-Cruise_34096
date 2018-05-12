@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1076
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34096#The-Ship-DwellersA-Story-of-a-Happy-Cruise
 gutenberg_issued: '2010-10-18'
 gutenberg_type: Text
 identifiers:
